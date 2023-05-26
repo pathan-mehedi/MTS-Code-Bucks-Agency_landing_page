@@ -5,17 +5,7 @@ This repository contains code for Agency Website in ReactJS.
 View Demo:
 https://agency-website-eta.vercel.app/
 
-If you want to learn how to create it please checkout following **Tutorial**👇: <br />
-<a href="https://devdreaming.com/videos/responsive-reactjs-website-gsap-styled-components" target="_blank">How to Build Responsive Website in React JS with Styled-Components and GSAP for awesome scroll Animations</a> <br />
 
-[https://youtu.be/aAEfBxcGpJ8]::
-
-### Images of Website:
-![Codebucks](https://github.com/codebucks27/Agency-website/blob/main/src/assets/Website%20Image-1.png)
-![Codebucks](https://github.com/codebucks27/Agency-website/blob/main/src/assets/Website%20Image-3.png)
-![Codebucks](https://github.com/codebucks27/Agency-website/blob/main/src/assets/Website%20Image-2.png)
-
-### [ I appreciate if you give appropriate credit when using this Website for Commercial Use ]
 
 ### Resources Used in This Project
 
