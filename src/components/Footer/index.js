@@ -48,22 +48,22 @@ const Footer = () => {
     <FOOTER>
       <LeftText>
         © 2021 Built and Design by{" "}
-        <a href="https://www.youtube.com/channel/UCeYt6blRBKuNrEg_-282fSA">
-          @CodeBucks
+        <a href="https://www.youtube.com/">
+          @mehediPathan
         </a>
       </LeftText>
       <RightText>
         Reach out to me via 😉
-        <a href="https://twitter.com/code_bucks">
+        <a href="https://twitter.com/monHckr">
           <img src={Twitter} alt="Twitter" />
         </a>
         &nbsp;
-        <a href="https://www.instagram.com/code.bucks/">
+        <a href="https://www.instagram.com/mehedi_pathan/">
           <img src={Instagram} alt="Instagram" />
         </a>
         &nbsp;
-        <a href="mailto:codebucks27@gmail.com?subject=Email From Your Website">
-          <img src={Gmail} alt="Gmail" />
+        <a href="mailto:contact@mehedipathan.com?subject=Email From Your Website">
+          <img src={Gmail} alt="Email" />
         </a>
       </RightText>
     </FOOTER>
@@ -72,4 +72,4 @@ const Footer = () => {
 
 export default Footer;
 
-//© 2021 by CodeBucks. Design by @CodeBucks.
+//© 2023 by Mehedi Pathan. Design by @.
